@@ -28,5 +28,7 @@ else if (bidang == 'S' || bidang == 's') {
 		L = 0.5*a*t;
 		cout << "   Luas persegi panjang : "<< L<<endl;
 }
-
+else{
+		cout<<"Maaf, Anda Salah Memilih"<<endl;
+	}
 }
