@@ -18,5 +18,6 @@ if (berat<tinggi/2.5) {
 	else if  (tinggi/2.5 <= berat <= tinggi/2.3){
 		cout <<  "Hasil : Normal" << endl;
 	} 
-		
+else if (tinggi/2.3 < berat)
+  cout << "Hasil : Gemuk" << endl;		
 }
